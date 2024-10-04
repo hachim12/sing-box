@@ -2,7 +2,7 @@ package experimental
 
 import (
 	"context"
-	"os"
+	"os"1234
 	"sort"
 
 	"github.com/sagernet/sing-box/adapter"
